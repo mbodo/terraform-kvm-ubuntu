@@ -1,0 +1,6 @@
+<pool type="dir">
+<name>terraform</name>
+<target>
+<path>/mnt/data/kvm/terraform</path>
+</target>
+</pool>

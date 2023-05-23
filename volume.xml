@@ -1,0 +1,11 @@
+<volume>
+    <name>kind.qcow2</name>
+    <capacity unit="B">1490685440</capacity>
+    <target>
+        <format type="qcow2"></format>
+        <permissions>
+            <mode>644</mode>
+        </permissions>
+    </target>
+</volume>
+
